@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "967821490472",
+    "firebase_url": "https://test-f6e3d.firebaseio.com",
+    "project_id": "test-f6e3d",
+    "storage_bucket": "test-f6e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967821490472:android:6bf8776aca273d0bc3b81d",
+        "android_client_info": {
+          "package_name": "com.gcart.android.facesmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967821490472-o4ilsbt4dksp2r7davmaluie5jimn2js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpiX40rYhJdY3NK0mvZk70S8HuXHVYR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967821490472-o4ilsbt4dksp2r7davmaluie5jimn2js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967821490472:android:9c7258c24062f762c3b81d",
+        "android_client_info": {
+          "package_name": "com.tib.mymusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967821490472-o4ilsbt4dksp2r7davmaluie5jimn2js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpiX40rYhJdY3NK0mvZk70S8HuXHVYR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967821490472-o4ilsbt4dksp2r7davmaluie5jimn2js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
